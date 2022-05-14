@@ -1,37 +1,114 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html> 
+<html>
+<head>
+    <title>
+    WELCOME TO OUR WEBSITE
+    </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="css/all.min.css"/>
+    <link rel="stylesheet"href="style.css"> 
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    </head>
+<body>
+    <header>
+        <a href=""class="logo">ghost</a>
+    <nav class="navigation">
+        <a href="#quotes">Quotes</a>
+        <a href="games">projects</a>
+      <a href="#contact">contact</a>                       
+        </nav> 
+    </header>
+    <section class="main">
+        <div        >
+            <h2>    Hello i'm THEGHOST<br><span> I am a web devoloper </span></h2>
+           
+            <h3> Slowly , is the fastest way to get where u want </h3> 
+                <br>
+            <a href="#projects" class="main-btn">view my work</a>
+         <div class="social-icons">
+               <a href="https://www.youtube.com/channel/UCk0c4ZuXnuKiVNBzjMp4Dog?view_as=subscriber"><i class="fa-brands fa-youtube"></i></a>
+             <a href="https://www.instagram.com/m_boutuil"><i class="fa-brands fa-instagram"></i></a> 
+               <a href="https://web.facebook.com/theghost.frfr/"><i class="fa-brands fa-facebook"></i></a> 
+             <a href="https://api.whatsapp.com/send/?phone=%2B21290020180&text&app_absent=0"><i class="fa-brands fa-whatsapp"></i></a>
+             
+            
+            </div>
+    </div>
+    
+    </section>
+    <section class="cards" id="quotes">
+       <h2 class="tittle">Quotes</h2>
+        <div class="content">
+    <div class="card">
+        <div class="icon">
+        <i class="fa-solid fa-clock"></i>
+        </div>
+        <div class="info">
+            <h3> Time</h3>
+            <p> “Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times.”</p>
+               </div>
+        </div>
+        <div class="card">
+        <div class="icon">
+       <i class="fa-solid fa-person-dots-from-line"></i>
+        </div>
+                <div class="info">
+        <h3> Fear </h3>
+            <p> “Fear does not prevent death,it prevents life.”</p>
+            </div>
+             </div>
+            
+      <div class="card">
+        <div class="icon">
+     <i class="fa-solid fa-fingerprint"></i>
+        </div>
+                <div class="info">
+        <h3> YOU</h3>
+            <p> “Wanting to be someone else is a waste of the person you are.”</p>
+           
 
-You can use the [editor on GitHub](https://github.com/boughost/ghost/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+        </section>
+        </div>
+        <section class="games" id="games">
+            <h2 class="tittle">Games that would enrich your mind</h2>
+            <div class="content">
+            <div class="games-card">
+                <div class="games-images ">
+                    <img src="lumosity.jpg"/>
+                </div>
+                <div class="game-info">
+                    <p class="game-category"> Lumosity is a leading brain training program, brought to you by Lumos Labs,Inc.</p>
+                 <strong class="game-tittle">   
+                     <span>Lumosity</span>   
+                     <a href="https://www.lumosity.com/fr/" >More details</details></a>
+                 </strong>
+                
+                </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+            </div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+            </div>
+                
+            
+            </div>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boughost/ghost/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+        </section>
+          
+              </div> 
+        </div>
+    </section>
+    
+
+    
